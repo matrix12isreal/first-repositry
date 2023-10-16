@@ -5,4 +5,4 @@ author- yash gupta
 
 Hey i am student and i wanna be game developer and i started coding at 11 years old.
 <hr>
-Here is a basic game i python made by me.
+Here is a basic game in python made by me.
